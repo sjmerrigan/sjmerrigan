@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjmerrigan
-- 👀 I’m interested in service desing
+- 👀 I’m interested in service design
 - 🌱 I’m currently learning AsyncAPI
 
 <!---
