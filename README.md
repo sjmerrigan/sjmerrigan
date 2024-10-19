@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjmerrigan
-- 👀 I’m interested in service design
-- 🌱 I’m currently learning AsyncAPI
+- 👀 I’m interested in IoT and Vehicle Integration
+- 🌱 I’m currently learning AsyncAPI, Android and Kotlin
 
 <!---
 sjmerrigan/sjmerrigan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
